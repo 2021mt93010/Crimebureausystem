@@ -34,3 +34,13 @@ nvm-windows
 
 Getting Started with NPM 
 https://docs.npmjs.com/getting-started
+
+
+## how to run this code
+1. Download the code
+2. go to root directory
+3. run "npm install"
+4. run "npm start"
+## Execution
+this application will run by default on port 8000
+
