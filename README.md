@@ -41,7 +41,6 @@ https://docs.npmjs.com/getting-started
 2. go to root directory
 3. run "npm install"
 4. run "npm start"
-
-
 ## Execution
 this application will run by default on port 8000
+
